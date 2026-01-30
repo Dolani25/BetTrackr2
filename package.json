@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "express": "^5.2.1",
     "katex": "^0.16.22",
-    "lucide-react": "^0.487.0",
+    "lucide-react": "^0.562.0",
     "playwright": "^1.57.0",
     "react": "^19.0.0",
     "react-calendar-heatmap": "^1.10.0",
