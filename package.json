@@ -19,7 +19,7 @@
     "@mui/icons-material": "^7.0.1",
     "@mui/lab": "^7.0.0-beta.10",
     "@mui/material": "^7.0.1",
-    "axios": "^1.13.2",
+    "axios": "^1.13.5",
     "cors": "^2.8.5",
     "express": "^5.2.1",
     "katex": "^0.16.22",
